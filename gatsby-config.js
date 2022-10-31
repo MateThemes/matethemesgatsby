@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Boostrap 5 Sass Starter`,
+    title: `Kreativ Design Agentur`,
     description: `A simple bootstrap 5 and Sass starter for Gatsby. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@r-ichard`,
+    author: `Gerald Schandl`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-bootstrap-5`,
-        short_name: `gb5-starter`,
+        name: `matethemesgatsby`,
+        short_name: `matethemesgatsby`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

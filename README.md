@@ -4,13 +4,13 @@
   </a>
 </p>
 <h1 align="center">
-   Gatsby Bootstrap 5 starter
+   MateThemes Gatsby
 </h1>
 
 
 Minimal bootstrap 5 and Gatsby configuration with SCSS support. 
 
-Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
+Demo here : Not available yet
 
 ## 📋 Available options
 
@@ -22,7 +22,7 @@ Use the Gatsby CLI to create a new site.
 
 ```shell
 # create a new Gatsby site using the default starter
-gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter-bootstrap-5
+gatsby new matethemesgatsby https://github.com/matethemes/matethemesgatsby
 ```
 
 
@@ -31,7 +31,7 @@ gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter
 1.  Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd gatsby-starter-bootstrap-5/
+    cd matethemesgatsby/
     gatsby develop
     ```
 
@@ -41,7 +41,7 @@ gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `gatsby-starter-bootstrap-5` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Open the `matethemesgatsby` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 ## 💡 How to contribute 
 
