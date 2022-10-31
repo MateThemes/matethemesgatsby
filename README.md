@@ -46,3 +46,6 @@ gatsby new matethemesgatsby https://github.com/matethemes/matethemesgatsby
 ## 💡 How to contribute 
 
 Any feedback is welcome and helpful.
+
+## A lots of thanks to
+https://github.com/r-ichard/gatsby-starter-bootstrap-5 to help me getting started with Gatsbyjs
